@@ -1,4 +1,4 @@
-<img align="right" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47fcywa5xvs0i3g9y2llxj4wx0an0lerhojia1eyuj&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coder GIF" width="420" height="330">
+<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm1lcjJxYzI2dTFrdWUzNWF6dWZraGlzd3hoZ3o0OHphNDlqZnhteSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" alt="Coder GIF" width="420" height="330">
 
 
 
