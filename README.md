@@ -11,10 +11,7 @@
 
 💻 **Things I love**
 - JAVA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- C++
 - Backend Development
-- Music
-- Gaming
 
 
 
@@ -24,7 +21,7 @@
     
 🛠**Tech Stack**
 
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![JAVA](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
 
