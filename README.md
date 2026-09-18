@@ -22,8 +22,7 @@
 🛠**Tech Stack**
 
 ![JAVA](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-000000?style=flat&logo=SpringBoot)
 
 
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
