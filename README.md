@@ -4,7 +4,7 @@
 
 ### Hi there, I am Mehak
 
-[![Gmail Badge](https://img.shields.io/badge/-mehak-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chandramehak2025@gmail.com)](mailto:chandramehak2025@gmail.com) ![](https://komarev.com/ghpvc/?username=mehakkkkk&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=mehakkkkk&color=blueviolet)
 
 
 - ⚡ Fun fact: It’s all 0’s and 1’s.
